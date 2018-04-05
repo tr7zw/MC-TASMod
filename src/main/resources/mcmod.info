@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tasmod",
+  "name": "Tool Asisted Speedrun Mod",
+  "description": "Enables to play prerecorded frameperfect inputs",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tr7zw"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
